@@ -1,0 +1,192 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0440015, 
+                    38.9215171
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1841 Columbia Rd NW Washington DC ", 
+                "Days": "Friday", 
+                "Name": "Bedrock Billiards", 
+                "Specials": "$3 rail drafts $3 Miller Lite $3.50 Red Hook IPA", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0024857, 
+                    38.8868933
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "229 Pennsylvania Ave Washington DC 20003", 
+                "Days": "Friday", 
+                "Name": "Capitol Lounge", 
+                "Specials": "$1 off all drinks", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.00268849999999, 
+                    38.8869399
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "223 Pennsylvania Avenue SE Washington DC", 
+                "Days": "Friday", 
+                "Name": "Sonoma", 
+                "Specials": "$5 wines $5 cocktails $3 beers", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0251266, 
+                    38.9019761
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "901 New York Ave NW Washington DC 20001", 
+                "Days": "Friday", 
+                "Name": "Acadiana", 
+                "Specials": "$5 specialty cocktails  $5 wine selections $4 12-oz drafts 1/2-price appetizers", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.021602, 
+                    38.903508
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1015 1/2 7th St NW Washington DC 20001", 
+                "Days": "Friday", 
+                "Name": "Bar 7", 
+                "Specials": "not specified online", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.02155499999999, 
+                    38.896522
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "509 7th St NW Washington DC 20004", 
+                "Days": "Friday", 
+                "Name": "DistrictChop House", 
+                "Specials": "$2.50 handcrafted pints", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0210507, 
+                    38.8975697
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "601 F Street NW Washington DC 20004", 
+                "Days": "Friday", 
+                "Name": "Greene Turtle", 
+                "Specials": "$3.50 Bud/Lite & Miller/Coors Lite", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.019232, 
+                    38.899475
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "500 H St NW DC", 
+                "Days": "Friday", 
+                "Name": "Iris Channel Pub", 
+                "Specials": "$1 off drafts (not Guinness/cider) | $3.50 Bud Light drafts", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.022204, 
+                    38.89925390000001
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "722 7th St NW Washington DC 20001", 
+                "Days": "Friday", 
+                "Name": "La Tasca", 
+                "Specials": "$3.75 sangria/drafts/house wines $5 cadillac sangria $17 sangria pitchers $3.75 tapas", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0414505, 
+                    38.9143826
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1805 18th Street NW Washington DC 20009", 
+                "Days": "Friday", 
+                "Name": "Mandu", 
+                "Specials": "$3 Mandu $3 drafts $4 Sojutinis $4 rails", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.022688, 
+                    38.8986362
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "775 G St NW Washington DC 20001", 
+                "Days": "Friday", 
+                "Name": "Proof", 
+                "Specials": "$5 wine $8 cocktails", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}
