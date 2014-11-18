@@ -62,3 +62,8 @@ with open("file_name.json", "w") as jsonfile:
 	jsonfile.write(json.dumps(geo, indent=4, sort_keys=True))
 
 print "done"
+
+
+#Things to do:
+#-figure out why they Time key gives me an error
+#-add more specials and bars to the spreadsheet
