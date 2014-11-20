@@ -186,6 +186,227 @@
                 "marker-symbol": "bar"
             }, 
             "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0222921, 
+                    38.9004282
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "810 7th St NW Washington DC 20001", 
+                "Days": "Friday", 
+                "Name": "RFD", 
+                "Specials": "$4 each for 3 drafts", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.02222300000001, 
+                    38.899001
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "714 7th St NW Washington DC 20001", 
+                "Days": "Friday", 
+                "Name": "Rocket Bar", 
+                "Specials": "$4 beer-of-the-month drafts| $4 all wine/champagne| $4 rail cocktails| $3 PBR| $5.50 rails", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.019211, 
+                    38.900614
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "781 Seventh Street NW Chinatown Washington DC 20001", 
+                "Days": "Friday", 
+                "Name": "Zengo", 
+                "Specials": "$5 Latin-Asian cocktails| $5 small plates| $5 wine| $4 select beer", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.057811, 
+                    38.935263
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "3427 Connecticut Ave NW Washington DC 20008", 
+                "Days": "Friday", 
+                "Name": "Atomic Billiards", 
+                "Specials": "$3.25 Bud/Yuengling/Miller/Pilsner Urquell| $4 house cocktails | $4 house cocktails", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.05769599999999, 
+                    38.935065
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "3421 Connecticut Ave NW Washington DC 20008", 
+                "Days": "Friday", 
+                "Name": "Cleveland Park Bar", 
+                "Specials": "$3 Miller/Yuengling| $3 rails| $4 wine", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.024282, 
+                    38.916034
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1914 9th St NW Washington DC 20001", 
+                "Days": "Friday", 
+                "Name": "Dino", 
+                "Specials": "$3 off antipasti| $5 select wines| $5 martini/cocktail specials| $4 American craft beers", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.072723, 
+                    38.933274
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "3238 Wisconsin Ave NW Washington DC 20016", 
+                "Days": "Friday", 
+                "Name": "District 2", 
+                "Specials": "$6 Stoli/flavored vodka drinks (add Red Bull for $3)| $4 Miller Lite", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0323027, 
+                    38.9297164
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "3115 14th St. NW Washington DC 20010", 
+                "Days": "Friday", 
+                "Name": "Heights", 
+                "Specials": "$3.75-$9.75 appetizers| $5.50 cocktail specials| $4.25 all rails| $3.50-$5 select beer/wine", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0378585, 
+                    38.9305508
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "3155 Mt Pleasant St NW Washington DC 20010", 
+                "Days": "Friday", 
+                "Name": "Radius", 
+                "Specials": "$5 for draft & cheese slice| $5 PEI mussels", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0464631, 
+                    38.898031
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "2036 G St NW Washington DC 20036", 
+                "Days": "Friday", 
+                "Name": "Tonic", 
+                "Specials": "1/2-price burgers| 1/2-price drafts/rails| $5 house wine", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.038048, 
+                    38.90703000000001
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1615 Rhode Island Ave NW  Washington DC 20036", 
+                "Days": "Friday", 
+                "Name": "Beacon", 
+                "Specials": "$3 Bud/Tecate cans| $4 rails| $4 house wine| $5 cocktails/house martinis| $4 appetizers", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.042316, 
+                    38.908494
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1345 Connecticut Ave NW  Washington DC 20036", 
+                "Days": "Friday", 
+                "Name": "Big Hunt", 
+                "Specials": "$2.50 PBR/Bud Lite/Lite Ass/Bad Ass| $3 rails| $1 off all other drinks", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.042289, 
+                    38.908449
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1343 Connecticut Ave NW Washington DC 20036", 
+                "Days": "Friday", 
+                "Name": "Cafe Citron", 
+                "Specials": "see menu for drink & food specials", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"
